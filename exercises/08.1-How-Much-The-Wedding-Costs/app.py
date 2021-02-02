@@ -1,5 +1,7 @@
 user_input = int(input('How many people are coming to your wedding?\n'))
 
+if 
+
 if user_input <= 50:
     price = 4000
 
