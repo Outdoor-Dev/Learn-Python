@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ff302263-15af-4a3a-858e-29765f631d0e.ws-us03.gitpod.io",
+    "address": "https://chocolate-quokka-s1ys4yo4.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -91,7 +91,7 @@
         {
             "slug": "05-User-Inputed-Values",
             "title": "05-User-Inputed-Values",
-            "done": false,
+            "done": true,
             "path": "exercises/05-User-Inputed-Values",
             "translations": [
                 "es",
@@ -113,7 +113,7 @@
         {
             "slug": "07-Create-a-Basic-HTML",
             "title": "07-Create-a-Basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Create-a-Basic-HTML",
             "translations": [
                 "es",
@@ -190,7 +190,7 @@
         {
             "slug": "14-Rand-From-One-to-Six",
             "title": "14-Rand-From-One-to-Six",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Rand-From-One-to-Six",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "18-Random-Colors-Loop",
             "title": "18-Random-Colors-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Random-Colors-Loop",
             "translations": [
                 "es",

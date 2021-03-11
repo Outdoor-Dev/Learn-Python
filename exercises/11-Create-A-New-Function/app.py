@@ -1,12 +1,12 @@
 import random
 
 def generate_random():
-    print (str(random.randint(0,9)))
-    return(random.randint(0,9))
+    number = random.randint(0,9)
+    return number
     
     
 
-generate_random()
+print(generate_random())
    
 
 # your code here
